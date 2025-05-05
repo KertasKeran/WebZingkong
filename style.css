@@ -12,6 +12,7 @@ header{
     padding: 10px;
     height: 30px;
     align-items: center;
+    z-index:999;
 }
 .title{
     font-family:'Courier New', Courier, monospace;
