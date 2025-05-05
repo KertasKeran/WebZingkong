@@ -130,6 +130,7 @@ section.product .container .card{
     border-radius: 20px;
     border: 7px solid black;
     justify-items: center;
+    flex-basis: 30%;
 }
 section.product .container .card img{
     width:100%;
