@@ -135,6 +135,7 @@ section.product .container .card{
 }
 section.product .container .card img{
     width:100%;
+    padding-bottom: 35px;
 }
 section.product .container .card a{
     color:black;
